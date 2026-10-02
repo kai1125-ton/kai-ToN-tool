@@ -1,6 +1,6 @@
 {
-  "version": "2.18.0",
-  "displayVersion": "v2.18",
-  "downloadUrl": "https://github.com/kai1125-ton/kai-ToN-tool/releases/download/v2.18/kai.ToN.tool.exe",
-  "sha256": "7f8fbcd24d70d36b636dd1c1cff3d05636a9a47a1bcda5a65a931e132c3e3fda"
+  "version": "2.18.1",
+  "displayVersion": "v2.18.1",
+  "downloadUrl": "https://github.com/kai1125-ton/kai-ToN-tool/releases/download/v2.18.1/kai.ToN.tool.exe",
+  "sha256": "a9a0bb9cba6514d2182ed507266881d02504fdf4272ae792ffe6ee0914fe6f9e"
 }
